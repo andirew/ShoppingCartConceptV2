@@ -1,5 +1,4 @@
-// Workshop 4 - Templates
-// w4.cpp
+
 
 #include <iostream>
 #include <iomanip>
